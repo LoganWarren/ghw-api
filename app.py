@@ -31,3 +31,8 @@ def getHackathons():
 
 if __name__=="__main__":
 	app.run(debug = True)
+	
+
+#https://hoppscotch.io/
+#https://ghw-logan-api.azurewebsites.net/
+#https://portal.azure.com/?Microsoft_Azure_Education_correlationId=0e75ffce4d504be79389307ef337247f&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=d2502a1d-bfc7-4bc4-99b4-af8571a0329e#@pitt.onmicrosoft.com/resource/subscriptions/d2502a1d-bfc7-4bc4-99b4-af8571a0329e/resourceGroups/ghw/providers/Microsoft.Web/sites/ghw-logan-api/appServices
